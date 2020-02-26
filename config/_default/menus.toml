@@ -20,13 +20,25 @@
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  #url = "#featured" #if you want like a built-in function, use this
+  url = "publication/" #if you want to a separate page, use this.
   weight = 40
+
+[[main]]
+  name = "People"
+  url = "#people"
+  weight = 50
 
 [[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
+
+[[main]]
+  name = "My Widget Page"  # Title of the link.
+  url = "landing/"  # Widget Page folder name. Using / as the back drop
+  weight = 35  # Position of the link in the navigation bar.
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

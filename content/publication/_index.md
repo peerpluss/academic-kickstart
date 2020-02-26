@@ -1,5 +1,6 @@
 ---
 title: Publications
+type: "widget_page"
 
 # View.
 #   1 = List

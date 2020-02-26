@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Oscar Yinn
+name: Edison Chan
 
 # Username (this should match the folder name)
 authors:
-- admin
+- admin2
 
 # Is this the primary user of the site?
 superuser: true
