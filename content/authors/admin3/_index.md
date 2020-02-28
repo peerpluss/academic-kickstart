@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Oscar Yinn
+name: Katherine Zhao
 
 # Username (this should match the folder name)
 authors:
-- admin
+- admin3
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,27 +20,26 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- 托福113，SAT1530，AP 5科满分，SATII 双800
-- 美国高中数学建模大赛（HiMCM)特等奖、团队全球第一名
-- 丘成桐科学奖总决赛入围(数学）
-- 中国电子学会个人贡献奖（清华大学）
-- 数次国际模拟联合国大会最佳代表
+interests:  
+- 托福119 
+- SAT1540 8/6/8 
+- APLang 满分 
+- 2018 APEC中国青年代表 
+- 全美高中生传媒大赛写作冠军 
+- NSDA演讲比赛，希望之星省冠军 
 
 education:
-  courses:
-  - course: 专业期刊发表多篇论文
-    institution: 清华大学，中山大学
-    year: 2018-2019
-  - course: “少年创客”科技挑战赛银奖
-    institution: Carnegie Mellon University
-    year: 2019
-  - course: 模拟联合国社团、数学建模社社长
+  courses: 
+  - course: 创办个人公众号与公益组织
     institution: CGS
-    year: 2017-2020
-  - course: YYGS，ESAP等高含金量夏校录取
-    institution: Yale University, University of Pennsylvania 
-    year: 2019
+    year: 2012
+  - course: 创办学校模拟法庭社 
+    institution: CGS
+    year: 2009
+  - course: SSHI, YYGS等高含金量夏校录取 
+    institution: Stanford University, Yale University
+    year: 2008
+    
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

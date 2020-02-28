@@ -21,21 +21,25 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 托福118，SAT1590
+- AP 8科满分，SATII 2360(数理双800，文学760）
+- 美国高中数学建模大赛特等奖、团队全球第一名
+- 英国奥林匹克物理挑战赛全球银奖
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: “少年创客”科技挑战赛银奖
+    institution: Carnegie Mellon University
+    year: 2019
+  - course: 创办学校机器人社团、电子音乐社团
     institution: Massachusetts Institute of Technology
     year: 2009
-  - course: BSc in Artificial Intelligence
+  - course: 钢琴英国皇家音乐学院8级
     institution: Massachusetts Institute of Technology
     year: 2008
+  - course: AMC10数学竞赛全球前10%
+    institution: Stanford University
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -66,8 +70,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Founder
+#- Visitors
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
