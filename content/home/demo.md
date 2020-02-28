@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Academic Kickstart"
+title = "🔖来自创始者们的一封信"
 subtitle = ""
 
 [design]
@@ -50,26 +50,33 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **Academic Kickstart** template!
+谁的**申请季**没有栽过跟头？
 
-Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
+我们栽过太多。好多次无助地看着空白的文档；在考场中央听着令人焦虑的钟声滴答；凌晨闪烁的电脑屏幕前没来由地哭了出来......环视四周，每个人都在忙碌着，在行进的留学大军中，原来我们都是孤身一人。
 
-For inspiration, check out [the Markdown files](https://sourcethemes.com/academic/docs/install/#demo-content) which power the [personal demo](https://academic-demo.netlify.com/). The easiest way to publish your new site to the internet is with [Netlify](https://sourcethemes.com/academic/docs/deployment/).
+我们栽过太多。
 
-- [View the documentation](https://sourcethemes.com/academic/docs/)
-- [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
-- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
+所以不想让你们再孤身一人。
 
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
+谁的申请季不是这样过去？
 
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
+我们的申请季这样过去。申请季结束的那一天，我们只想抛开一切，关掉无数个标签页，退出塞满邮件的邮箱，在对申请季若有若无的怀念中兜进大学。但无数排列得整整齐齐的文件夹，自己或许都再不会读的文字——好像有个声音呼唤着我们。
 
-**To remove this section, delete `content/home/demo.md`.**
-{{% /alert %}}
+我们的申请季这样过去。
+
+所以我们想陪陪你们。最好更圆满一些，不后悔一些。
+
+2020.2.8-第一个群微信语音。
+
+同学录Peer+诞生。同学，书写下你名字的那一刻，我知道我们会成为彼此青春中重要的陪伴。
+
+无论你期盼又彷徨地翻开首页，还是从中间的页码闯进一场冒险——
+
+我们，以最大的欣喜迎接你，以最大的诚意守护你。
+
+我们，会一起走到尾页。上面大大地写着：
+
+______同学，**录**！ 
+
+
+--陈子迅，尹俊杰，赵思涵.   
