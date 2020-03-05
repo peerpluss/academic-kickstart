@@ -74,6 +74,6 @@ user_groups:
 #- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+擅长理工科，同时具备极高人文素养。标化成绩极为优异：**托福115，SAT1590，AP 8科满分，SATII 双800，GPA名列前茅。** 数理学术实力强硬：曾获得美国高中数学建模大赛特等奖、团队全球第一名；AMC10数学竞赛全球前10百分比；英国奥林匹克物理挑战赛全球银奖；数学大联盟杯竞赛前8百分比；加拿大CCC编程竞赛，Top 7百分比等多项国际大奖。对机器人尤其钻研，多次参加大疆RM营领导团队搭建机器人，并创办学校机器人社团。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+极高艺术素养：钢琴英国皇家音乐学院8级，多次参与校内外演出并创办电子音乐社团。**教学风格踏实稳健，注重学员真实能力提升，主要负责阅读、语法、与理工科方向活动规划。**

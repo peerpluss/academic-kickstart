@@ -1,0 +1,16 @@
+# Font style metadata
+name = "custom1"
+
+# Optional Google font URL
+#google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono"
+
+google_fonts = "Lato|Merriweather|Noto+Serif+SC"
+
+
+
+# Font families
+heading_font = "Merriweather"
+body_font = "Lato"
+nav_font = "Lato"
+navigation_font = "Lato"
+mono_font = "Merriweather"
