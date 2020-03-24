@@ -1,13 +1,13 @@
 ---
 # Display name
-name: Katherine Zhao
+name: Edison Chan
 
 # Username (this should match the folder name)
 authors:
-- admin3
+- edison
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Researcher of Artificial Intelligence
@@ -20,26 +20,26 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:  
-- 托福119 
-- SAT1540 8/6/8 
-- APLang 满分 
-- 2018 APEC中国青年代表 
-- 全美高中生传媒大赛写作冠军 
-- NSDA演讲比赛，希望之星省冠军 
+interests:
+- 托福118，SAT1590
+- AP 8科满分，SATII 2360(数理双800，文学760）
+- 美国高中数学建模大赛特等奖、团队全球第一名
+- 英国奥林匹克物理挑战赛全球银奖
 
 education:
-  courses: 
-  - course: 创办个人公众号与公益组织
-    institution: CGS
-    year: 2012
-  - course: 创办学校模拟法庭社 
-    institution: CGS
+  courses:
+  - course: “少年创客”科技挑战赛银奖
+    institution: Carnegie Mellon University
+    year: 2019
+  - course: 创办学校机器人社团、电子音乐社团
+    institution: Massachusetts Institute of Technology
     year: 2009
-  - course: SSHI, YYGS等高含金量夏校录取 
-    institution: Stanford University, Yale University
+  - course: 钢琴英国皇家音乐学院8级
+    institution: Massachusetts Institute of Technology
     year: 2008
-    
+  - course: AMC10数学竞赛全球前10%
+    institution: Stanford University
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -74,6 +74,6 @@ user_groups:
 #- Visitors
 ---
 
-擅长人文社科，语言能力过硬。标化成绩：**托福119，SAT1570 8/6/8，APLang 满分，GPA长期名列前二。** 书面表达与口头表达能力极强，曾当选2018 APEC中国青年代表；荣获全美高中生传媒大赛写作专栏冠军；JEA传媒大赛最高奖；NSDA原创演讲比赛省冠军；希望之星省冠军；PPMT模拟法庭比赛全国前五……
+擅长理工科，同时具备极高人文素养。标化成绩极为优异：**托福115，SAT1590，AP 8科满分，SATII 双800，GPA名列前茅。** 数理学术实力强硬：曾获得美国高中数学建模大赛特等奖、团队全球第一名；AMC10数学竞赛全球前10百分比；英国奥林匹克物理挑战赛全球银奖；数学大联盟杯竞赛前8百分比；加拿大CCC编程竞赛，Top 7百分比等多项国际大奖。对机器人尤其钻研，多次参加大疆RM营领导团队搭建机器人，并创办学校机器人社团。
 
-课余时间创办10万+个人公众号和社会公益组织，产生较大社会影响力。2019暑期获得SSHI，YYGS等高含金量夏校录取。极强的自学和方法总结能力，曾帮助多位同学SAT短期提分100+，提供优质文书创意与活动规划咨询。**教学风格风趣幽默，教学方法另辟蹊径，主要负责阅读、写作培训与人文社科方向活动规划。**
+极高艺术素养：钢琴英国皇家音乐学院8级，多次参与校内外演出并创办电子音乐社团。**教学风格踏实稳健，注重学员真实能力提升，主要负责阅读、语法、与理工科方向活动规划。**

@@ -14,3 +14,5 @@ header:
   caption: ""
   image: ""
 ---
+
+I think the type: wideget_page means you will have a seperate pages on your website.

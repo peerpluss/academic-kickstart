@@ -13,13 +13,9 @@
   url = "posts/"
   weight = 20
 
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
 
 [[main]]
-  name = "Publications"
+  name = "申请"
   #url = "#featured" #if you want like a built-in function, use this
   url = "publication/" #if you want to a separate page, use this.
   weight = 40
@@ -36,7 +32,7 @@
 
 [[main]]
   name = "活动策划"  # Title of the link.
-  url = "landing/"  # Widget Page folder name. Using / as the back drop
+  url = "activities/"  # Widget Page folder name. Using / as the back drop
   weight = 35  # Position of the link in the navigation bar.
 
 

@@ -4,13 +4,13 @@ name: Oscar Yinn
 
 # Username (this should match the folder name)
 authors:
-- admin
+- oscar
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Researcher of Artificial Intelligence
+role: JHU 2024'
 
 # Organizations/Affiliations
 organizations:
