@@ -7,18 +7,18 @@ authors:
 - katherine
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Researcher of Artificial Intelligence
+role: UChicago 2024'
 
 # Organizations/Affiliations
 organizations:
-- name: UChicago 2024'
+- name: UChicago
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 中国APEC青年代表，社科负责人
 
 interests:  
 - 托福119 
