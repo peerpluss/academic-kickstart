@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "为什么选择Peerplus?"
-subtitle: "Why us?"
+subtitle: "Why us ?"
 summary: "Why us?"
 authors: [katherine]
 tags: [宣发]
