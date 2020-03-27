@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: UChicago 2024'
+role: UChicago ' 2024
 
 # Organizations/Affiliations
 organizations:

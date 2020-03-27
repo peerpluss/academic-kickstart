@@ -15,7 +15,7 @@
 
 
 [[main]]
-  name = "申请"
+  name = "现在申请"
   #url = "#featured" #if you want like a built-in function, use this
   url = "publication/" #if you want to a separate page, use this.
   weight = 40

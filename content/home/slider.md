@@ -30,9 +30,28 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Apply Now"
-  cta_url = "https://sourcethemes.com/academic/"
+  cta_url = "https://wj.qq.com/s2/5737582/2672/"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
+  
+[[item]]
+  title = "联系Peerplus"
+  content = "我们会在一天内联系你们 "
+  align = "center"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  #overlay_color = "#666"  # An HTML color value.
+  overlay_img = "headers/khan1.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+  # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  cta_label = "Contact"
+  cta_url = "https://wj.qq.com/s2/5750044/63b5/"
+  cta_icon_pack = "fas"
+  cta_icon = "calendar-check"
 
 #[[item]]
 #  title = "Left"

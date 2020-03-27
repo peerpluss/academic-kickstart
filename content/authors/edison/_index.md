@@ -10,15 +10,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Researcher of Artificial Intelligence
+role: UC Berkely ' 2024
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: UC Berkely
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 标华学术总监，理科负责人
 
 interests:
 - 托福118，SAT1590

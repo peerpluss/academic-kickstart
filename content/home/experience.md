@@ -27,26 +27,103 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * 根据板块与时间段给予多项选择
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "学员确认选择三项活动"
+  company = "Online"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = ""
+  date_start = "2020-02-01"
+  date_end = ""
+  description = """  Responsibilities include:
+  
+  * 确认与活动联系紧密的个人经历
+  * 初motivation并记录（为面试、大学申请文书等做准备）
+  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "根据三项活动，导师进行详细规划或prep课程"
+  company = "Online"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = ""
+  date_start = "2020-03-01"
+  date_end = ""
+  description = """  Responsibilities include:
+  
+  * 三个活动可选同时进行或顺序进行
+  * 可根据学生ability和availability调整方案
+  """
+  
+[[experience]]
+  title = "确认后每两周一次video/audio meeting"
+  company = "Online"
+  company_url = ""
+  location = ""
+  date_start = "2020-04-01"
+  date_end = ""
+  description = """  Responsibilities include:
+  
+  * 两周一次为固定meeting
+  * 项目紧密进行时期可额外要求meeting
+  """
+  
+[[experience]]
+  title = "Monthly Log"
+  company = "Online"
+  company_url = ""
+  location = ""
+  date_start = "2020-03-01"
+  date_end = ""
+  description = """  Responsibilities include:
+  
+  * 学生每月递交。不交或过晚提交，导师有权延后活动进展
+  * monthly log记录每个月相关活动的进度，并为申请季文书等积累重要素材
+  * monthly log 6P 记录法
+  """
+  
+[[experience]]
+  title = "转折点"
+  company = "Online"
+  company_url = ""
+  location = ""
+  date_start = "2020-03-01"
+  date_end = ""
+  description = """  Responsibilities include:
+  
+  * 当活动有巨大的方向改变，进展，重要人物加入，影响力巨大提升时，导师将其设置为转折点
+  * 转折点月份Monthly Log将以300words+总结文章呈现
+  * 要求Presentation与Oral Defense
+  """
+  
+[[experience]]
+  title = "活动意义升华服务"
+  company = "Online"
+  company_url = ""
+  location = ""
+  date_start = "2020-03-01"
+  date_end = ""
+  description = """  Responsibilities include:
+  
+  * 与学员讨论，提出升华活动意义方案，挖掘原motivation更深层次意义
+  * 结合时事，周围环境等
+  * 每个活动至少会进行三次升华
+  * 多个活动建立联系
+  """
+
+[[experience]]
+  title = "活动意义升华服务"
+  company = "Online"
+  company_url = ""
+  location = ""
+  date_start = "2020-03-01"
+  date_end = ""
+  description = """  Responsibilities include:
+  
+  * 申请季必需的活动文书：高质量，包修改，升华等
+  * 填activity list相应表格
+  * 梳理拔高申请形象
+  * 可选作品集服务
+  """
 +++

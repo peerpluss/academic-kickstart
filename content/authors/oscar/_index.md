@@ -10,17 +10,17 @@ authors:
 superuser: true
 
 # Role/position
-role: JHU 2024'
+role: JHU ' 2024
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Johns Hopkin University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
+interests: 
 - 托福113，SAT1530，AP 5科满分，SATII 双800
 - 美国高中数学建模大赛（HiMCM)特等奖、团队全球第一名
 - 丘成桐科学奖总决赛入围(数学）
